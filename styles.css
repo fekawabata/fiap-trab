@@ -1,0 +1,60 @@
+/* styles.css */
+
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  /* Estilos do conteúdo principal */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  .principal {
+    background-image: url(background.jpg);
+    background-size:0cm
+    background-position:cover
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    background-color: #1d1919;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #524c4c;
+  }
+  
+  /* Estilos do texto */
+  h1, h2 {
+    color: #333;
+  }
+  
+  /* Estilos dos links */
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
